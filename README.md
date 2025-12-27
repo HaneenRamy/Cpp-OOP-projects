@@ -17,7 +17,6 @@ The projects emphasize structured design, class-based architecture, and real-wor
 - Library Management System  
 - Bank Management System  
 - Student Management System  
-- Hospital Management System  
 
 Each project is organized in its own folder and includes:
 - Source code (.cpp)
