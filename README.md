@@ -1,34 +1,43 @@
-# C++ Object-Oriented Programming Projects
+# C++ OOP Projects
 
-This repository contains a collection of C++ projects focused on applying Object-Oriented Programming (OOP) principles through practical, console-based applications.
+This repository contains C++ Object-Oriented Programming (OOP) projects demonstrating practical use of classes, objects, inheritance, encapsulation, and polymorphism. Each project simulates real-world applications and strengthens programming skills in C++.
 
-The projects emphasize structured design, class-based architecture, and real-world problem modeling using C++. They are built to demonstrate clean logic, data management, and user interaction via menus.
+---
 
-## Concepts Applied
-- Object-Oriented Programming (OOP)
-- Classes and Objects
-- Encapsulation
-- Data abstraction
-- Vectors and dynamic data storage
-- Input validation
-- Menu-driven console applications
+## Projects Included
 
-##  Projects Included
-- Library Management System  
-- Bank Management System  
-- Student Management System  
+### 1. Library Management System
+A console-based system to manage library operations efficiently.  
+Features:
+- Add, display, borrow, return, and delete books  
+- View available and borrowed books  
+- Add new books dynamically  
+- User-friendly console interface with input validation  
 
-Each project is organized in its own folder and includes:
-- Source code (.cpp)
-- A dedicated README explaining the project
-- Clear functionality and user interaction flow
+[View Project](Library-management-system)
 
-## Tools & Language
-- Language: C++
-- IDE: Any C++ compatible IDE (Visual Studio, Code::Blocks, VS Code, etc.)
-- Platform: Console-based applications
+---
 
-##  Purpose
-These projects were built as part of my learning journey in C++ and OOP, with a focus on writing structured, readable code and solving problems in a practical way.
+### 2. Bank Management System
+A simple banking system to manage accounts and transactions.  
+Features:
+- View active accounts  
+- Deposit and withdraw money  
+- Handle multiple accounts dynamically  
+- Input validation and proper error handling  
 
-Feel free to explore the code and project structure.
+[View Project](Bank-management-system)
+
+---
+
+### 3. Student Management System
+Manage student records and courses efficiently using OOP concepts.  
+Features:
+- Add and delete students  
+- Add and delete courses for each student  
+- Display all student details dynamically  
+- Input validation and error handling  
+
+[View Project](Student-management-system)
+
+---
