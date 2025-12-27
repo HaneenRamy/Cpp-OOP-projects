@@ -1,37 +1,30 @@
-# Bank Management System (C++)
+# Bank Management System
 
-A console-based Bank Management System implemented in C++ using Object-Oriented Programming principles.  
-The system simulates basic banking operations through a clean, menu-driven interface.
+## Description
+A C++ console application that simulates a banking system.  
+Users can view active accounts, deposit and withdraw money, and manage bank operations.  
+This project demonstrates object-oriented programming (OOP) concepts including classes, vectors, and input validation.
 
 ## Features
-- View all active bank accounts
-- Deposit money using real account numbers
-- Withdraw money with balance validation
+- View all active accounts
+- Deposit money into accounts
+- Withdraw funds from accounts
 - Input validation and error handling
-- Clear and structured menu navigation
+- Tracks balances dynamically
+- Maintains account numbers and owners
 
-## Concepts Applied
-- Object-Oriented Programming (OOP)
-- Classes and objects
-- Encapsulation
-- Vectors and dynamic data storage
+## Installation
+1. Clone the repository
+2. Compile the code using a C++ compiler
+3. Run the program
+
+## Usage
+- The program displays a menu for bank operations.
+- Enter the corresponding number to perform an action.
+- Follow on-screen prompts for deposits, withdrawals, or viewing accounts.
+
+## Technologies & Skills
+- C++ (OOP)
+- Vectors and arrays
 - Input validation
-- Realistic system modeling
-
-## Design Overview
-- Each bank account is represented by an Account class
-- All accounts are stored in a vector inside the BankSystem class
-- Account operations are performed using account numbers, not array indexes
-
-## How to Run
-1. Compile the program
-2. Run the executable
-3. Follow the on-screen menu instructions
-
-## Tools & Language
-- Language: C++
-- Type: Console application
-- IDE: Any C++ compatible IDE
-
-## Notes
-This project focuses on clean structure, correct logic, and realistic behavior rather than graphical interfaces.
+- Console-based UI
