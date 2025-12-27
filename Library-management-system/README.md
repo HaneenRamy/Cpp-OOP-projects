@@ -1,36 +1,31 @@
-# Library Management System (C++)
+# Library Management System
 
-A console-based Library Management System developed using C++ and Object-Oriented Programming principles.  
-The system allows users to manage books through a simple and interactive menu.
+## Description
+A C++ console application that simulates a library management system.  
+Users can view available books, borrow and return books, and manage the library collection.  
+This project demonstrates object-oriented programming (OOP) concepts such as classes, encapsulation, and vectors.
 
 ## Features
 - View available books
-- Borrow books from the library
-- Return borrowed books
+- Borrow a book
+- Return a book
 - View borrowed books
 - Add new books to the library
-- Menu-driven user interface
+- Input validation and error handling
+- Tracks borrowed books dynamically
 
-## OOP Concepts Used
-- Classes and Objects
-- Encapsulation
-- Private data members
-- Public member functions
-- Separation of functionality into methods
+## Installation
+1. Clone the repository
+2. Compile the code using a c++ compiler
+3. Run yhe program
 
-## Data Handling
-- Uses vector<string> to store available and borrowed books
-- Prevents invalid operations (wrong menu choice, invalid book number)
-- Handles user input safely
+## Usage
+- The program displays a menu for library operations.
+- Enter the corresponding number to perform an action.
+- Follow on-screen prompts for borrowing, returning, or adding books.
 
-## How to Run
-1. Compile the code using any C++ compiler
-2. Run the executable
-3. Follow the on-screen menu instructions.
-
-##  Notes
-- This project focuses on logic, structure, and OOP design rather than graphical interfaces.
-- Designed to simulate a real-world system in a simplified console environment.
-
-##  Language
-- C++
+## Technologies & Skills
+- C++ (OOP)
+- Vectors and arrays
+- Input validation
+- Console-based UI
